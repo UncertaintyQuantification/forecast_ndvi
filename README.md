@@ -1,3 +1,5 @@
+## Long-Term Probabilistic Forecast of Vegetation by Climate Attributes in the Four Corners Region
+
 Code for "Long-Term Probabilistic Forecast of Vegetation by Climate Attributes in the Four Corners Region" (Erika McPhillips, Hyeongseong Lee, Xiangyu Xie, Kathy Baylis, Chris Funk, and Mengyang Gu, 2025). 
 
 The repository contains code and data to reproduce all numerical results and figures from the paper:
