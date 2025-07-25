@@ -1,0 +1,5 @@
+If you want to get the attribution model results of NDVI by DNN model, just run the "DNN_attribtution_Table1.py" 
+
+If you want to get the attribution model results of NDVI by FNO model, just run the "FNO_attribution_Table1.py" and download "utilities3.py" file. 
+
+And the dataset vpd_matrix, "precip_matrix" and "ndvi_matrix" are in the Data folder.

@@ -1,0 +1,9 @@
+If you want to get the forecast results of NDVI by RNN model, just run the "RNN_NDVI_Forecast_Table2.py.py" 
+
+
+If you want to get the forecast results of VPD, precip or NDVI by FNO model, just run the "FNO_vpd_forecast_Table_S14.py", "FNO_precip_forecast_Table_S13.py", and "FNO_ndvi_forecast_Table_2.py" files and download "utilities3.py" file. 
+
+If you want to get the forecast rolling window figure results of VPD by FNO model, just run the "FNO_Figure_S6.py
+" and download "utilities3.py" file. 
+
+And the dataset vpd_matrix, "precip_matrix" and "ndvi_matrix" are in the Data folder.
